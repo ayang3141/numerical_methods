@@ -1,3 +1,3 @@
 # numerical_methods
 
-# Welcome bitches
+This is a repo for my self-study in numerical analysis
