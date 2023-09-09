@@ -1,7 +1,9 @@
 import numpy as np
 
-class RootFinder():
-
+class FunctionSolver():
+    """
+    Class for solving functions
+    """
     def __init__(self, tolerance, function):
         self.tol = tolerance
         self.func = function
